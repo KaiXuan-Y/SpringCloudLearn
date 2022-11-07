@@ -23,7 +23,6 @@
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
 
-
         <dependency>
             <groupId>com.ykx.springcloud</groupId>
             <artifactId>cloud-api-commons</artifactId>
